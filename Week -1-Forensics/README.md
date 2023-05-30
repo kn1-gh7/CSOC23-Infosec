@@ -11,6 +11,14 @@ My friend **John** just challenged me to find hidden flag in this image. When I 
 [Challenge File](chall2)
 
 ### Magic Everywhere
-Do your magic and find the flag and I might share some of my dogecoins with you :D
+Do your **magic** and find the flag and I might share some of my dogecoins with you :D
 
 [Challenge File](chall3)
+
+### Never Gonna Give you Up
+Now a begginer challenge would not be complete without a rickroll. **See through** this Rick Astley's masterpiece to find the flag.
+
+[Challenge File](chall4)
+
+### Go Deeper
+How **deep** would you go for this flag? btw random info - I use same username and passwords in my logins. I really like the alias kn1gh7 lol.
