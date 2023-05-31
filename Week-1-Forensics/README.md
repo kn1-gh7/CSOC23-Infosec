@@ -47,6 +47,6 @@ I sniffed on **hacker47's** network and here is the captured data. Can you find 
 [Challenge File](chall6)
 
 ### Planet Morse
-Musk mElon keeps on talking about this weird planet Morse. Here's an audio in this language. Does it make any sense? *Ignore flag format and just write what you get*
+Musk mElon keeps on talking about this weird planet **Morse**. Here's an audio in this language. Does it make any sense? *Ignore flag format and just write what you get*
 
 [Challenge File](chall7)
