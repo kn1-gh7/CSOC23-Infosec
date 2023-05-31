@@ -45,3 +45,8 @@ How **deep** would you go for this flag? btw random info - I use same username a
 I sniffed on **hacker47's** network and here is the captured data. Can you find something useful? [Checkout this awesome video](https://youtu.be/XqZsoesa55w)
 
 [Challenge File](chall6)
+
+### Planet Morse
+Musk mElon keeps on talking about this weird planet Morse. Here's an audio in this language. Does it make any sense?
+
+[Challenge File](chall7)
