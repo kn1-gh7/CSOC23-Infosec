@@ -5,7 +5,7 @@ Now its time to apply the skills you learnt and find the flags for these challen
 Remember, do not shy away from searching the internet!
 What is expected in the google doc:
 1. Flag (text form or screenshot)
-2. Breif writeup (you can accompany with screenshots)
+2. Brief writeup (you can accompany with screenshots)
 The flag format is CSOC23{s0m3_t3Xt}...Good Luck!
 
 ### The "Bytes" Challenge
@@ -34,6 +34,6 @@ How **deep** would you go for this flag? btw random info - I use same username a
 [Challenge File](chall5)
 
 ### Baby Shark
-I sniffed on **hacker47's** network and here is the captured data. Can you find something useful?
+I sniffed on **hacker47's** network and here is the captured data. Can you find something useful? [Checkout this awesome video](https://youtu.be/XqZsoesa55w)
 
 [Challenge File](chall6)
