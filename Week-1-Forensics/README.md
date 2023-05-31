@@ -1,14 +1,19 @@
 ## Challenges for CSOC23 Week 1 - Forensics
 
 Hey there!, I hope you are having a good time learning about the tools and techniques used in forensics.
-Now its time to apply the skills you learnt and find the flags for these challenges. All of them use either one of the techniques you learnt or a combination of them. A few of them also directly need the use of certain tools, which we have not told you about. But the **hints** in the challenge description should get you going.
+Now its time to apply the skills you learnt and find the flags for these challenges. All of them use either one of the techniques you learnt or a combination of them. A few of them also directly need the use of certain tools, which we have not told you about. But the **hints** in the challenge description should get you going. The challs are not in any specific order of difficulty so move to the next if you feel stuck.
 Remember, do not shy away from using the internet!
 
 What is expected in the google doc:
 1. Flag (text form or screenshot)
 2. Brief writeup (you can accompany with screenshots)
 
-The flag format is CSOC23{s0m3_t3Xt}. For any query feel free to contact me on discord(kn1gh7#2810) or @INFOSEC on the CSOC server....Good Luck!!
+The flag format is CSOC23{s0m3_t3Xt}. For any query feel free to contact me(even for additional hints) on discord(kn1gh7#2810) or @INFOSEC on the CSOC server....Good Luck!!
+
+### Strings it
+My favourite instruments are **string** type instruments. They sound so goooood.
+
+[Challenge File](chall0)
 
 ### The "Bytes" Challenge
 My friend keeps on crying about a parrot **"byte"**, but come on how **significant** can it be? What are your **comments** on this?
@@ -21,7 +26,7 @@ My friend **John** just challenged me to find hidden flag in this image. When I 
 [Challenge File](chall2)
 
 ### Magic Everywhere
-Do your **magic** and find the flag and I might share some of my dogecoins with you :D
+Do your **magic** and find the flag and I might share some of my dogecoins with you :D. Remember you might need to do the magic more than once at different parts of file.
 
 [Challenge File](chall3)
 
