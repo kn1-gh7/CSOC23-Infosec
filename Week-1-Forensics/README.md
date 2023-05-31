@@ -26,7 +26,7 @@ My friend **John** just challenged me to find hidden flag in this image. When I 
 [Challenge File](chall2)
 
 ### Magic Everywhere
-Do your **magic** and find the flag and I might share some of my dogecoins with you :D. Remember you might need to do the magic more than once at different parts of file.
+Do your **magic** and find the flag and I might share some of my dogecoins with you :D. Remember to always see the **bigger picture**.
 
 [Challenge File](chall3)
 
