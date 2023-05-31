@@ -7,6 +7,7 @@ What is expected in the google doc:
 1. Flag (text form or screenshot)
 2. Brief writeup (you can accompany with screenshots)
 The flag format is CSOC23{s0m3_t3Xt}...Good Luck!
+For any query feel free to contact me on discord(kn1gh7#2810) or @INFOSEC on the CSOC server.
 
 ### The "Bytes" Challenge
 My friend keeps on crying about a parrot **"byte"**, but come on how **significant** can it be? What are your **comments** on this?
