@@ -7,6 +7,7 @@ Remember, do not shy away from using the internet!
 What is expected in the google doc:
 1. Flag (text form or screenshot)
 2. Brief writeup (you can accompany with screenshots)
+3. Give progress of what you did and till where you reached even if not reached the flag
 
 The flag format is CSOC23{s0m3_t3Xt}. For any query feel free to contact me(even for additional hints) on discord(kn1gh7#2810) or @INFOSEC on the CSOC server....Good Luck!!
 
