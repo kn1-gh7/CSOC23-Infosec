@@ -1,6 +1,6 @@
 ## Challenges for CSOC23 Week 1 - Forensics
 
-Hey there!, I hope you are having a good time learning about the tools and techniques used in forensics.
+Hey there! I hope you are having a good time learning about the tools and techniques used in forensics.
 Now its time to apply the skills you learnt and find the flags for these challenges. All of them use either one of the techniques you learnt or a combination of them. A few of them also directly need the use of certain tools, which we have not told you about. But the **hints** in the challenge description should get you going. The challs are not in any specific order of difficulty so move to the next if you feel stuck.
 Remember, do not shy away from using the internet!
 
