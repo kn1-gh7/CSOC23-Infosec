@@ -24,3 +24,8 @@ Time to get rickrolled...or maybe not ? **See through** this Rick Astley's maste
 How **deep** would you go for this flag? btw random info - I use same username and **passwords** in my logins. I really like the alias `kn1gh7` lol.
 
 [Challenge File](chall5)
+
+### Baby Shark
+I sniffed on **hacker47's** network and here is the captured data. Can you find something useful?
+
+[Challenge File](chall6)
