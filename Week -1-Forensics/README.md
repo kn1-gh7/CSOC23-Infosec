@@ -21,4 +21,4 @@ Time to get rickrolled...or maybe not ? **See through** this Rick Astley's maste
 [Challenge File](chall4)
 
 ### Go Deeper
-How **deep** would you go for this flag? btw random info - I use same username and **passwords** in my logins. I really like the alias kn1gh7 lol.
+How **deep** would you go for this flag? btw random info - I use same username and **passwords** in my logins. I really like the alias `kn1gh7` lol.
