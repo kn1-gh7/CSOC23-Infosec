@@ -3,9 +3,11 @@
 Hey there!, I hope you are having a good time learning about the tools and techniques used in forensics.
 Now its time to apply the skills you learnt and find the flags for these challenges. All of them use either one of the techniques you learnt or a combination of them. A few of them also directly need the use of certain tools, which we have not told you about. But the **hints** in the challenge description should get you going.
 Remember, do not shy away from using the internet!
+
 What is expected in the google doc:
 1. Flag (text form or screenshot)
 2. Brief writeup (you can accompany with screenshots)
+
 The flag format is CSOC23{s0m3_t3Xt}...Good Luck!
 For any query feel free to contact me on discord(kn1gh7#2810) or @INFOSEC on the CSOC server.
 
