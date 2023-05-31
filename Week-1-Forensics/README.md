@@ -10,6 +10,7 @@ What is expected in the google doc:
 
 The flag format is CSOC23{s0m3_t3Xt}. For any query feel free to contact me(even for additional hints) on discord(kn1gh7#2810) or @INFOSEC on the CSOC server....Good Luck!!
 
+---
 ### Strings it
 My favourite instruments are **string** type instruments. They sound so goooood.
 
