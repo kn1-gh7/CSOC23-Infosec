@@ -45,7 +45,7 @@ How **deep** would you go for this flag? btw random info - I use same username a
 [Challenge File](chall5)
 
 ### Baby Shark
-I sniffed on **gROoTh4k7er's** network and here is the captured data. Can you find something useful? [Checkout this awesome video](https://youtu.be/XqZsoesa55w)
+I sniffed on **gROoTh47er's** network and here is the captured data. Can you find something useful? [Checkout this awesome video](https://youtu.be/XqZsoesa55w)
 
 [Challenge File](chall6)
 
