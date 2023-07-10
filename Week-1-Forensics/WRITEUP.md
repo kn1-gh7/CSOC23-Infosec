@@ -1,6 +1,8 @@
 
 # Writeups for Week-1 Forensics
 
+### Hope you had fun with the challenges, you can always contact me at discord (`kn1gh7.`) or @INFOSEC on CSOC server for any queries!
+
 ---
 
 ### Strings it
