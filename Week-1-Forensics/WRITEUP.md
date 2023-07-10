@@ -234,7 +234,7 @@ Musk mElon keeps on talking about this weird planet **Morse**. Here's an audio i
 ```shell
 kn1gh7@ctfbox:-$ file chall7
 chall7: Zip archive data, at least v2.0 to extract, compression method=deflate
-kn1gh7@ctfbox:-$ unzip chall5                           
+kn1gh7@ctfbox:-$ unzip chall7                         
 Archive:  chall7
   inflating: chall7.wav
 ```
